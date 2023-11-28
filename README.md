@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I can stand on my hands
 
   Languages and tools:
-  ![django](https://static.djangoproject.com/img/logos/django-logo-negative.png)
+  ![django]([https://static.djangoproject.com/img/logos/django-logo-negative.png](https://img.icons8.com/?size=48&id=qV-JzWYl9dzP&format=png)https://img.icons8.com/?size=48&id=qV-JzWYl9dzP&format=png)
