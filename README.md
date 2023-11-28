@@ -7,3 +7,6 @@
 - 📫 How to reach me: ubilby@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can stand on my hands
+
+  Languages and tools:
+  ![django](https://static.djangoproject.com/img/logos/django-logo-negative.png)
