@@ -13,7 +13,7 @@ I'm a backend developer passionate about creating robust and scalable solutions.
 Here's what I use to build robust and scalable solutions:
 
 - **Python** 🐍 - my go-to language for backend development
-- **Django** & **Django Rest Framework** - for building powerful web applications
+- **Django** & **Django Rest Framework** or **FastAPI**- for building powerful web applications
 - **Nginx + Gunicorn** - for production-ready performance and scalability
 - **Celery** - for handling background tasks efficiently
 - **Redis** - for caching and message brokering
