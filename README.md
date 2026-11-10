@@ -1,36 +1,41 @@
-### Hello, fellow developers! 🖥️
+# Hi, I'm Georgii Anikin 👋
 
-I'm a backend developer passionate about creating robust and scalable solutions. 
+I'm an operations engineer with a backend development background, moving toward DevOps/SRE.
 
-### About Me 
+I've worked on both sides of a monitoring platform: developing its backend at the vendor, then deploying and operating it in customer infrastructure. I enjoy understanding how systems work, investigating failures, and automating repetitive tasks.
 
-- 🛠️ **Backend Development**: Building scalable and maintainable systems
-- 👥 **Collaboration**: Always open to new projects and exciting challenges
-- 🎯 **Focus Areas**: API development, microservices, and system architecture
+## What I Do 🛠️
 
-### My Typical Backend Stack 🛠️
+- Deploy and maintain a monitoring platform across 60+ sites in Russia.
+- Use Ansible to automate container deployment, configuration updates, and backups.
+- Troubleshoot distributed systems using application and agent logs and metrics.
+- Build repeatable software delivery processes for isolated networks without internet access.
+- Draw on backend experience with Python, Django REST Framework, and CI/CD using GitHub Actions.
 
-Here's what I use to build robust and scalable solutions:
+## Technologies
 
-- **Python** 🐍 - my go-to language for backend development
-- **Django** & **Django Rest Framework** or **FastAPI**- for building powerful web applications
-- **Nginx + Gunicorn** - for production-ready performance and scalability
-- **Celery** - for handling background tasks efficiently
-- **Redis** - for caching and message brokering
-- **PostgreSQL** - for reliable data storage
-- **Docker** - for seamless deployment and containerization
+**Infrastructure & automation:** Linux, Docker, Ansible, Bash  
+**Backend:** Python, Django REST Framework, REST APIs, PostgreSQL, Gunicorn  
+**Development & delivery:** Git, GitHub Actions  
+**Monitoring & telemetry:** INITI SOLO, ClickHouse, SNMP, NetFlow
 
-Each of these tools helps me deliver high-quality, maintainable solutions that meet modern development standards.
+## What I'm Learning 🌱
 
-### Fun Facts About Me
+I'm building practical Kubernetes skills: setting up a local cluster, writing manifests, and diagnosing failures through events and logs.
 
-- 🤸‍♂️ Can stand on my hands (yes, it's a useful skill!)
-- 🏊‍♂️ Competitive swimmer (crawl is my specialty)
-- ☕ Love discussing code over a cup of coffee
+Next on my roadmap: Helm, GitLab CI, Jenkins, Prometheus, Grafana, and Loki.
 
-### How to Connect
+My GitHub currently reflects my backend background, while my infrastructure and automation experience comes from professional work.
 
+## Beyond Tech
+
+🤸 I can do a handstand.  
+🏊 Competitive swimmer — freestyle is my specialty.  
+☕ Always happy to talk engineering over coffee.
+
+## Get in Touch
+
+- Telegram: [@ubilby](https://t.me/ubilby)
 - Email: ubilby@gmail.com
-- Pronouns: he/him
 
 Let's build something amazing together! 🚀
